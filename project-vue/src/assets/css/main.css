@@ -1,0 +1,24 @@
+#app {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+  font-weight: bold;
+}
+
+.btn-info {
+  background-color: #3AC7FF;
+}
+
+.badge-info {
+  background-color: #3AC7FF;
+}
+
+.home-text{
+  margin: 250px;
+}
+
+.card-login{
+  margin: auto;
+  width: 400px;
+}
