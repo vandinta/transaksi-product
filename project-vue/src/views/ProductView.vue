@@ -2,7 +2,7 @@
   <div class="home">
     <AppNavbarLog />
     <div class="container">
-      <h1 class="home-text">Ini Adalah Product</h1>
+      <b-table striped hover :items="items"></b-table>
     </div>
     <AppFooter />
   </div>
